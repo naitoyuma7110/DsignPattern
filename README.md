@@ -1,5 +1,5 @@
 ## デザインパターンをTSで
 
-https://refactoring.guru/ja/design-patterns  
+Refactoring.Guru ：https://refactoring.guru/ja
 
-https://www.techscore.com/tech/DesignPattern/
+テックスコア：https://www.techscore.com/tech/DesignPattern/
